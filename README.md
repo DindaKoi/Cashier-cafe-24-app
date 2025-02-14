@@ -5,7 +5,7 @@
 ## Fitur Utama
 - Pemesanan menu secara cepat dan akurat
 - Perhitungan total harga dan pembayaran otomatis
-- Laporan transaksi harian
+- Struk pembelian sebagai bukti tanda terima dan bayar pesanan
 - Antarmuka sederhana dan mudah digunakan
 
 ## Aturan Kontribusi
